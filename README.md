@@ -5,3 +5,5 @@
 
 ### 🛠️ Tech I Use
 <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="25"/> <img src="https://cdn.simpleicons.org/roblox/000000" alt="Roblox" width="25"/> <img src="https://cdn.simpleicons.org/JavaScript/F7DF1E" alt="Roblox" width="25"/> <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="Roblox" width="25"/>
+
+For any queries, add me on discord: `merlinreturns`
